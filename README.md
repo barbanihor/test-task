@@ -1,6 +1,6 @@
 # Pokémon Battle 
 
-DEMO [POKEMON BATTLE](https://barbanihor.github.io/test-task/)
+⭐ DEMO [POKEMON BATTLE](https://barbanihor.github.io/test-task/) ⭐
 
 Dear Luna Edge team,
 Thank you for this cool test project. While I was doing it, I was able to enjoy the process a little bit.
